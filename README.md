@@ -5,6 +5,8 @@ Applicable to the AIB-NINX series products, it incorporates NVIDIA Jetson Orin�
 # Introduction
 The Tutorial Code was made by Visual Studio Code Version:1.97.2. Please make sure your development environment is matched.
 ![image](https://github.com/user-attachments/assets/f98240ab-ebd6-4a4a-b7e1-8de8cac322de)
+
+If you need to execute that example, it must be done in conjunction with【edge.ai.jetson.orin.sdk】.
 # Execution Screenshot
 ![TRAFFIC](https://github.com/user-attachments/assets/93e3e4a0-d9c3-490f-9eea-561c1bf9a002)
 # Refreence
